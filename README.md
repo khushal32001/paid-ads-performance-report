@@ -61,7 +61,7 @@ This project was created as part of a Digital Marketing internship to demonstrat
 1. Download or clone the repository.
 
 ```bash
-git clone https://github.com/your-username/kaapi-culture-paid-ads-performance-report.git
+git clone https://github.com/khushal32001/paid-ads-performance-report.git
 ```
 
 2. Open the HTML file in any modern web browser.
